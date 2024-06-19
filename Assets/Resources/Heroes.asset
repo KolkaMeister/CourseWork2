@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48e61501198b8fc468df7edb58863fc7, type: 3}
+  m_Name: Heroes
+  m_EditorClassIdentifier: 
+  itemDefs:
+  - _type: 0
+    _id: 1
+    _name: Mike
+    _price: 0
+    _icon: {fileID: 978012912, guid: 99a24620d31e5ce4e823c32d11e17c2c, type: 3}
+    _prefab: {fileID: 5640258823007745952, guid: ca6f05279cf2cb947835df28af9aaac8, type: 3}
+  - _type: 0
+    _id: 2
+    _name: Luci
+    _price: 1000
+    _icon: {fileID: -150523396, guid: 0c187a32c5bde4747be8d00770b07403, type: 3}
+    _prefab: {fileID: 5640258823007745952, guid: c93b5817808e4794b9cfa7219095b0f2, type: 3}
+  - _type: 0
+    _id: 3
+    _name: Sam
+    _price: 2000
+    _icon: {fileID: -1442216141, guid: 8f7a60065e3984c489b9c4d41bc3dc4e, type: 3}
+    _prefab: {fileID: 5640258823007745952, guid: 56df71c13e70b62468f692e3005dfdd6, type: 3}
